@@ -111,7 +111,7 @@
 .section-team {
   background-color: #f4f4fd;
 }
-.list-item-item {
+.list-team-item {
   background-color: #ffffff;
 }
 /* footer */
@@ -143,4 +143,7 @@
 .button-portfolio:focus {
   background: #404bbf;
   color: #ffffff;
+}
+.text-portfolio {
+  color: var(--primary-color);
 }
